@@ -17,6 +17,8 @@
   <h3>Tanlangamlar</h3>
   <p>{{ javob }}</p>
 </div>
+
+Kamera bilan ishlash muammolari asdfkj dkd 
 </template>
 
 <script>
